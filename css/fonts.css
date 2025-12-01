@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Krungthep";
+  src: url("../fonts/Krungthep.woff2") format("woff2");
+  font-weight: var(--font-weight-bold);
+  font-style: normal;
+}
+@font-face {
+  font-family: "Menlo regular";
+  src: url("../fonts/Menlo-Regular.woff2") format("woff2");
+  font-weight: var(--font-weight-regular);
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Menlo";
+  src: url("../fonts/Menlo-Bold.woff2") format("woff2");
+  font-weight: var(--font-weight-bold);
+  font-style: normal;
+}

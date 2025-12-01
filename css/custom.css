@@ -1,0 +1,30 @@
+html {
+  --color-bg: #ffeabf;
+  --color-bg-accent: #c37676;
+  --color-head-bg: #6f6b39;
+  --color-footer: #762619;
+  --color-icon: #cb7f1c;
+
+  --font-family-text: "Menlo regular", ui-sans-serif;
+  --font-family-text-bold: "Menlo", ui-sans-serif;
+  --font-family-headline: "Krungthep", ui-sans-serif;
+  --font-weight-regular: 400;
+  --font-weight-bold: 700;
+
+  --border-radius: 20px;
+
+  --color-text-hero: #ffeabf;
+  --color-text: #000000;
+  --color-text-inverted: #ffffff;
+  --color-text-cta-header: #c37676;
+  --color-text-headline: #762619;
+
+  --font-hero-size: clamp(2.15rem, 7vw, 5rem);
+  --font-header-size: clamp(1.5rem, 5vw, 4rem);
+  --font-h1-size: clamp(1.4rem, 4.6vw, 3.5rem);
+  --font-text-size: clamp(1.5rem, 3vw, 2.2rem);
+  --font-h2-size: clamp(1rem, 2.5vw, 1.9rem);
+  --font-h3-size: clamp(1rem, 2vw, 1.5rem);
+  --font-cta-size: clamp(0.4rem, 1.5vw, 1.1rem);
+  --font-size: clamp(1rem, 1vw, 3rem);
+}
