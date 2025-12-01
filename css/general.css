@@ -261,6 +261,7 @@ footer {
   }
   .text {
     padding-left: 0;
+    grid-area: -1 / 2;
   }
   .big-left {
     grid-column: 1;
